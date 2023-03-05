@@ -18,12 +18,7 @@ def bot():
     
     msg.body(chatgpt)
     responded = True
-    if 'cat' in incoming_msg:
-        # return a cat pic
-        msg.media('https://cataas.com/cat')
-        responded = True
-    if not responded:
-        msg.body('I only know about famous quotes and cats, sorry!')
+
     return str(resp)
 
  
