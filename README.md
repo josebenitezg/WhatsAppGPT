@@ -8,12 +8,11 @@
       <img width="50%" src="assets/banner.png"></a>
 </p>
 </div>
-
 ## Steps 
 
 Usage :nut_and_bolt:
 
-1. Fork this repo
+1. Fork this repo (Don't forget to put your OpenAI Keys envs)
 
 2. Deploy to Heroku 
 
@@ -32,9 +31,4 @@ Usage :nut_and_bolt:
 
 5. Let's test.
 
-<div align="center">
-<p>
-    <a href="https://josebenitez.tech" target="_blank">
-      <img width="20%" src="assets/demo.gif"></a>
-</p>
-</div>
+![](assets/demo.gif)
