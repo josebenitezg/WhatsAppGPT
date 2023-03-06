@@ -24,4 +24,4 @@ def bot():
 
  
 if __name__ == "__main__":
-    app.run(debug=True, host='localhost', port=9293)
+    app.run(debug=True)
