@@ -1,4 +1,4 @@
-# WhatsAppGPT
+# WhatsAppGPT 💬
 
 ### This is a simple implementation of gpt3.5-turbo model from OpenAI API whithin a twilio WhatsApp Sandbox.
 
@@ -29,7 +29,7 @@ Usage :nut_and_bolt:
 </p>
 </div>
 
-5. Let's test.
+5. Let's test.🧑🏽‍💻
 
 <div align="center">
 <p>
