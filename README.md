@@ -8,7 +8,7 @@
 
 Usage :nut_and_bolt:
 
-1. Fork this repo
+1. Fork this repo (Don't forget to put your OpenAI Keys envs)
 
 2. Deploy to Heroku 
 
