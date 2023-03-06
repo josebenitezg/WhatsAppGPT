@@ -31,4 +31,9 @@ Usage :nut_and_bolt:
 
 5. Let's test.
 
-![](assets/demo.gif)
+<div align="center">
+<p>
+    <a href="https://josebenitez.tech" target="_blank">
+      <img width="40%" src="assets/demo.gif"></a>
+</p>
+</div>
