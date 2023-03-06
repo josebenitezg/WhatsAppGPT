@@ -2,7 +2,12 @@
 
 ## This is a simple implementation of gpt3.5-turbo model from OpenAI API whithin a twilio WhatsApp Sandbox.
 
-![banner](assets/banner.png)
+<div align="center">
+<p>
+    <a href="https://josebenitez.tech" target="_blank">
+      <img width="50%" src="assets/banner.png"></a>
+</p>
+</div>
 
 ## Steps 
 
@@ -18,8 +23,18 @@ Usage :nut_and_bolt:
 
 4. In the Sandbox Settings put your heroku server link with POST Method (this will enable the comunication between the OpenAI API and your Sandbox)
 
-![config](assets/sandbox_settings.png)
+<div align="center">
+<p>
+    <a href="https://josebenitez.tech" target="_blank">
+      <img width="40%" src="assets/sandbox_settings.png"></a>
+</p>
+</div>
 
 5. Let's test.
 
-![](assets/demo.gif)
+<div align="center">
+<p>
+    <a href="https://josebenitez.tech" target="_blank">
+      <img width="20%" src="assets/demo.gif"></a>
+</p>
+</div>
