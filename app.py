@@ -1,5 +1,4 @@
 # FLASK server to comunicate with twilio whatsapp sandbox
-import requests
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from chatgpt import get_chatgpt_response
