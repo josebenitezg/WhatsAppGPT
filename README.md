@@ -1,6 +1,6 @@
 # WhatsAppGPT
 
-## This is a simple implementation of gpt3.5-turbo model from OpenAI API whithin a twilio WhatsApp Sandbox.
+### This is a simple implementation of gpt3.5-turbo model from OpenAI API whithin a twilio WhatsApp Sandbox.
 
 <div align="center">
 <p>
