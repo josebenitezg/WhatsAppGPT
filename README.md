@@ -2,7 +2,7 @@
 
 ## This is a simple implementation of gpt3.5-turbo model from OpenAI API whithin a twilio WhatsApp Sandbox.
 
-![banner](assets/banner.png)
+![banner](assets/banner.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Steps 
 
